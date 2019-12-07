@@ -1,6 +1,8 @@
 # Asteroids
 Asteroids Game created in TypeScript using Observables  
-A game created for a university assignment achieving a final score of 94/100
+A game created for a university assignment achieving a final score of 94/100  
+
+![](gifs/asteroids.gif)
 
 ## Accessing the game
 - [Play the game here!](https://hyunshim.github.io/Asteroids/)  
