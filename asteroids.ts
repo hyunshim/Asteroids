@@ -1,23 +1,3 @@
-// FIT2102 2019 Assignment 1
-// https://docs.google.com/document/d/1Gr-M6LTU-tfm4yabqZWJYg-zTjEVqHKKTCvePGCYsUA/edit?usp=sharing
-
-// Hyun Shim 25110632
-
-/**
- * 
- * ******************************************************************
- * **** PLEASE READ THE README.pdf FILE TO VIEW DESCRIPTIONS OF: ****
- * ******************************************************************
- * - Ship Controls
- * - Item descriptions
- * - Enemy descriptions
- * - How to earn points
- * - Additions to Observable.ts
- * - Additions to main.test.js
- * - Additions to svgelement.ts
- * - Additional information
- * 
- */
 function asteroids() {
   const svg = document.getElementById("canvas")!
 
