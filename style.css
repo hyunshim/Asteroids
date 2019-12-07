@@ -3,6 +3,10 @@
     padding: 0px;
 }
 
+body {
+    margin: 30px;
+}
+
 BODY, H2, H3, H4, H5, H6, TH, TD {
 font-family: arial, helvetica, sans-serif;
 }
@@ -10,7 +14,7 @@ H1 {
     font-size: 38px;
     font-family: arial, helvetica, sans-serif;
 }
-head, body {
+head{ 
     width: 100%;
     height: 100%;
 }
