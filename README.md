@@ -1,5 +1,5 @@
 # Asteroids
-Asteroids Game created in TypeScript using Observables  
+Classic Asteroids Game created in TypeScript using Observables  
 A game created for a university assignment achieving a final score of 94/100  
 
 ![](gifs/asteroids.gif)
